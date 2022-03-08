@@ -22,8 +22,8 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
-		<jasperreports.version>6.13.0</jasperreports.version>
-		<dynamicjasper.version>5.3.1</dynamicjasper.version>
+		<jasperreports.version>6.1.0</jasperreports.version>
+		<dynamicjasper.version>6.1.0</dynamicjasper.version>
 	</properties>
 
 	<dependencies>
